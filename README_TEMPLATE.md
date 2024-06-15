@@ -14,6 +14,12 @@
   ·
   <!-- Link to the feature request template in your GitHub repository -->
   <a href=".github/ISSUE_TEMPLATE/feature_request.md">Request Feature</a>
+
+![GitHub Created At](https://img.shields.io/github/created-at/:user/:repo)
+![GitHub repo size](https://img.shields.io/github/repo-size/:user/:repo)
+![GitHub Discussions](https://img.shields.io/github/discussions/:user/:repo)
+![GitHub License](https://img.shields.io/github/license/:user/:repo)
+
 </div>
 <br>
 
@@ -35,6 +41,10 @@
 <!-- Overview section provides a brief introduction to the project -->
 
 ## Overview
+
+<!-- Screen Shot or an illustration describing this project -->
+
+<img src="" alt="project screenshot">
 
 <!-- Technologies Used section lists the programming languages, frameworks, and tools used in the project -->
 
