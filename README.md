@@ -40,7 +40,8 @@ successfully and ensuring they meet the expected quality levels.
 
 ## Overview
 
-<img src="https://raw.githubusercontent.com/RanitManik/images/main/README-Template.jpg?token=GHSAT0AAAAAACS664ER4P4Y6FLYZDEOTPUSZTNIWQA" alt="">
+![README-Template](https://github.com/RanitManik/README-Template/assets/138437760/a505a90d-912f-4f18-a604-94209bcda021)
+
 
 ### Why This Template?
 
