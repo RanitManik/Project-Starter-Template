@@ -21,7 +21,7 @@
 </div>
 
 A well-crafted README template containing all the essential community standards to assist you in launching your projects
-successfully and ensuring they meet the expected quality levels. Read the **[Wiki Docs](https://github.com/RanitManik/README-Template/wiki)** to learn more about this project and its structure.
+successfully and ensuring they meet the expected quality levels. Read the **[Wiki Docs](https://github.com/RanitManik/README-Template/wiki)** to learn more about this project and its structure. Ask questions about this project in the **[Discussion](https://github.com/RanitManik/README-Template/discussions)**.
 
 ## Table of Contents
 
