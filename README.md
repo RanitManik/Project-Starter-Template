@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100px" src="https://skillicons.dev/icons?i=md" alt="Markdown Icon">
+  <img height="80px" src="https://skillicons.dev/icons?i=md" alt="Markdown Icon">
   <h1>README Template</h1>
   <a href="https://github.com/RanitManik/README-Template/wiki"><strong>Explore the docs »</strong></a>
   <br>
