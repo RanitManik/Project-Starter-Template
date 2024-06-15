@@ -26,7 +26,7 @@ successfully and ensuring they meet the expected quality levels.
 
 - [Overview](#overview)
     - [Why This Template?](#why-this-template)
-    - [What to Change?](#what-to-change)
+    - [How to Change?](#how-to-change)
     - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
@@ -58,7 +58,7 @@ pull request, or opening an issue. Contributions are always welcome!
 > This is just an example `README` with details and examples.
 > If you want a clean format template, use the **[README_TEMPLATE.md](README_TEMPLATE.md)** file as your README.
 
-### What to Change?
+### How to Change?
 
 - **Project name** and **Project description**
 - **Project logo** and **Project Screenshot**
