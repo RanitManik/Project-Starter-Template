@@ -1,10 +1,10 @@
 <div align="center">
   <img width="100px" src="https://skillicons.dev/icons?i=md" alt="">
   <h1>README Template</h1>
-  <a href="https://ranitmanik.github.io/"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/RanitManik/README-Template"><strong>Explore the docs »</strong></a>
   <br>
   <br>
-  <a href="https://ranitmanik.github.io">View Demo</a>
+  <a href="https://github.com/RanitManik/README-Template">View Demo</a>
   ·
   <a href=".github/ISSUE_TEMPLATE/bug_report.md">Report Bug</a>
   ·
@@ -103,12 +103,12 @@ these steps:_
 7. Open a pull request from your forked repository to this original repository.
 
 Our community will review your contribution, provide feedback if needed, and merge it once everything looks good.
-<be/>
- _To know more about contribution guidelines please visit **[here](.github/CONTRIBUTING.md)**._
+<br/>
+_To learn more about how to contribute, please refer to the **[Contribution Guidelines](.github/CONTRIBUTING.md)**._
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See [`LICENSE.txt`](LICENSE) for more information.
 
 ## Contact
 
@@ -121,3 +121,4 @@ _Feel free to reach out if you have questions or just want to chat about web adv
 
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+- [Skill Icons](https://github.com/tandpfun/skill-icons)
