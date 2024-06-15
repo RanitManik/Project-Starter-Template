@@ -63,12 +63,12 @@ pull request, or opening an issue. Contributions are always welcome!
 - **Project name** and **Project description**
 - **Project logo** and **Project Screenshot**
 - **Project overview:** Update the [overview](#overview)
-- **Project tech stack:** Update the [technologies used](#technologies-used) badges
+- **Project tech stack:** Update the [technologies used](#technologies-used) badges according to your project tech stack
   from **[Markdown Badges](https://github.com/Ileriayo/markdown-badges)** if you want to change the badges. There you will
   find various markdown badges for your personal developer branding, profile, and projects.
-- **Project badges:** Update the badges from `shields.io` at the top of the README by changing the profile name and repo
+- **Project badges:** Update the badges from **shields.io** at the top of the README by changing the profile name and repo
   name.
-  If you want to add more **shields.io badges**, visit [shields.io](https://shields.io/badges)
+  If you want to add more badges like this, visit **[shields.io](https://shields.io/badges)**
 - **Installation steps:** Update the [installation instructions](#installation) in this template
 - **Usage instructions:** Update the [usage instructions](#usage) in this template
 - Contribution guidelines: Update the repo name in [contribution guidelines](#contributing) in this template and
@@ -145,7 +145,7 @@ Distributed under the MIT License. See [`LICENSE.txt`](LICENSE) for more informa
 - **LinkedIn**: [Ranit Manik](https://www.linkedin.com/in/ranit-manik/)
 - **GitHub**: [RanitManik](https://github.com/RanitManik)
 
-Feel free to reach out if you have questions or just want to chat about web adventures! 🚀
+_Feel free to reach out if you have questions or just want to chat about web adventures! 🚀_
 
 ## Acknowledgments
 
