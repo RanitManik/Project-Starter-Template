@@ -44,16 +44,16 @@ principles even in your documentation efforts. Here's why this template stands o
 This template will evolve to better meet various needs. Feel free to suggest changes by forking this repo, creating a
 pull request, or opening an issue. Contributions are always welcome!
 
-> [!NOTE]
+> **NOTE**
 > If you want a clean format template then use the **[README_TEMPLATE.md](README_TEMPLATE.md)** file as your README.
 
 ### Technologies Used
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-> [!Note]
-> Please visit [Markdown Badges](https://github.com/Ileriayo/markdown-badges) if you want to change the badges.
-> There you will find a wide variety of markdown badges.
+> **Note**
+> Please visit **[Markdown Badges](https://github.com/Ileriayo/markdown-badges)** if you want to change the badges.
+> There you will find various markdown badges for your personal developer branding, profile, and projects.
 
 ## Getting Started
 
@@ -103,9 +103,8 @@ these steps:_
 7. Open a pull request from your forked repository to this original repository.
 
 Our community will review your contribution, provide feedback if needed, and merge it once everything looks good.
-
-> [!Note] 
-> To know more about contribution guidelines please visit **[here](.github/CONTRIBUTING.md)**.
+<be/>
+ _To know more about contribution guidelines please visit **[here](.github/CONTRIBUTING.md)**._
 
 ## License
 
@@ -116,9 +115,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 - **LinkedIn**: [Ranit Manik](https://www.linkedin.com/in/ranit-manik/)
 - **GitHub**: [RanitManik](https://github.com/RanitManik)
 
-Feel free to reach out if you have questions or just want to chat about game dev and web adventures! 🚀
-
-Happy coding! 🎉
+_Feel free to reach out if you have questions or just want to chat about web adventures! 🚀_
 
 ## Acknowledgments
 
