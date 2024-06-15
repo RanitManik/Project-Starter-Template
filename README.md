@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100px" src="https://skillicons.dev/icons?i=md" alt="Markdown Icon">
   <h1>README Template</h1>
-  <a href="https://github.com/RanitManik/README-Template"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/RanitManik/README-Template/wiki"><strong>Explore the docs »</strong></a>
   <br>
   <br>
   <a href="https://github.com/RanitManik/README-Template">View Demo</a>
@@ -56,9 +56,12 @@ principles even in your documentation efforts. Here's why this template stands o
 This template will evolve to better meet various needs. Feel free to suggest changes by forking this repo, creating a
 pull request, or opening an issue. Contributions are always welcome!
 
-> **Note**
-> This is just an example `README` with details and examples.
-> If you want a clean format template, use the **[README_TEMPLATE.md](README_TEMPLATE.md)** file as your README.
+> [!IMPORTANT]
+> For comprehensive insights into this project, we strongly recommend visiting **[our project's wiki page](https://github.com/RanitManik/README-Template/wiki)**.
+> The [home page](https://github.com/RanitManik/README-Template/wiki) provides an overview of the project, while the [Project Structure page](https://github.com/RanitManik/README-Template/wiki/Project-Structure) details the purpose and contents of each file and folder in the project structure.
+
+> [!Note]
+> This README provides detailed examples and information. For a clean template format, consider using the **[README_TEMPLATE.md](README_TEMPLATE.md)** file as your README. We recommend reviewing the guide on making changes in this README to ensure you cover all necessary aspects effectively.
 
 ### How to Change?
 
