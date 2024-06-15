@@ -13,9 +13,10 @@
   <br/>
 
 ![GitHub Created At](https://img.shields.io/github/created-at/RanitManik/README-Template)
+![GitHub License](https://img.shields.io/github/license/RanitManik/README-Template)
 ![GitHub repo size](https://img.shields.io/github/repo-size/RanitManik/README-Template)
 ![GitHub Discussions](https://img.shields.io/github/discussions/RanitManik/README-Template)
-![GitHub License](https://img.shields.io/github/license/RanitManik/README-Template)
+![GitHub Release](https://img.shields.io/github/v/release/RanitManik/README-Template)
 
 </div>
 
