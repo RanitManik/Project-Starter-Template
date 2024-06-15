@@ -64,17 +64,17 @@ pull request, or opening an issue. Contributions are always welcome!
 - **Project logo** and **Project Screenshot**
 - **Project overview:** Update the [overview](#overview)
 - **Project tech stack:** Update the [technologies used](#technologies-used) badges
-  from [Markdown Badges](https://github.com/Ileriayo/markdown-badges) if you want to change the badges. There you will
+  from **[Markdown Badges](https://github.com/Ileriayo/markdown-badges)** if you want to change the badges. There you will
   find various markdown badges for your personal developer branding, profile, and projects.
-- **Project badges:** Update the badges from shields.io at the top of the README by changing the profile name and repo
+- **Project badges:** Update the badges from `shields.io` at the top of the README by changing the profile name and repo
   name.
-  If you want to add more shields.io badges, visit [shields.io](https://shields.io/badges)
+  If you want to add more **shields.io badges**, visit [shields.io](https://shields.io/badges)
 - **Installation steps:** Update the [installation instructions](#installation) in this template
 - **Usage instructions:** Update the [usage instructions](#usage) in this template
 - Contribution guidelines: Update the repo name in [contribution guidelines](#contributing) in this template and
   in [CONTRIBUTING.md](.github/CONTRIBUTING.md)
 - **License information:** If you prefer a different license, update it here [LICENSE](LICENSE)
-- **Contact details:** Update the contact info in this template with your details [here](#contact)
+- **Contact details:** Update the contact info in this template with your details in [contact section](#contact)
 
 ### Technologies Used
 
