@@ -21,13 +21,13 @@
 </div>
 
 A well-crafted README template containing all the essential community standards to assist you in launching your projects
-successfully and ensuring they meet the expected quality levels.
+successfully and ensuring they meet the expected quality levels. Read the **[Wiki Docs](https://github.com/RanitManik/README-Template/wiki)** to learn more about this project and its structure.
 
 ## Table of Contents
 
 - [Overview](#overview)
     - [Why This Template?](#why-this-template)
-    - [How to Change?](#how-to-change)
+    - [What to Change?](#what-to-change)
     - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
@@ -63,7 +63,7 @@ pull request, or opening an issue. Contributions are always welcome!
 > [!Note]
 > This README provides detailed examples and information. For a clean template format, consider using the **[README_TEMPLATE.md](README_TEMPLATE.md)** file as your README. We recommend reviewing the guide on making changes in this README to ensure you cover all necessary aspects effectively.
 
-### How to Change?
+### What to Change?
 
 - **Project name** and **Project description**
 - **Project logo** and **Project Screenshot**
@@ -92,13 +92,15 @@ pull request, or opening an issue. Contributions are always welcome!
 
 ## Getting Started
 
-To get a local copy up and running, follow these simple steps.
+To get a local copy up and running, follow these simple steps. 
+Provide instructions and examples for using the project. 
+This template does not rely on any external dependencies or services.
 
 ### Prerequisites
 
 Ensure you have the following software installed:
 
-- Node.js and npm
+- `Node.js` and `npm`
 
 ### Installation
 
@@ -117,8 +119,7 @@ Ensure you have the following software installed:
 
 ## Usage
 
-Provide instructions and examples for using the project. This template does not rely on any external dependencies or
-services.
+- To run the app run the following command:
 
 ```sh
 npm start
