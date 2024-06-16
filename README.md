@@ -151,7 +151,7 @@ Distributed under the MIT License. See [`LICENSE.txt`](LICENSE) for more informa
 - **LinkedIn**: [Ranit Manik](https://www.linkedin.com/in/ranit-manik/)
 - **GitHub**: [RanitManik](https://github.com/RanitManik)
 
-_Feel free to reach out if you have questions or just want to chat about web adventures! 🚀_
+_Feel free to reach out if you have questions or just want to chat about web adventures!_
 
 ## Acknowledgments
 
