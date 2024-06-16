@@ -148,6 +148,7 @@ Distributed under the MIT License. See [`LICENSE.txt`](LICENSE) for more informa
 
 ## Contact
 
+- **Email**: [ranitmanik.dev@gmail.com](mailto:ranitmanik.dev@gmail.com)
 - **LinkedIn**: [Ranit Manik](https://www.linkedin.com/in/ranit-manik/)
 - **GitHub**: [RanitManik](https://github.com/RanitManik)
 
