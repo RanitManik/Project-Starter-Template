@@ -163,5 +163,5 @@ _Feel free to reach out if you have questions or just want to chat about web adv
 ---
 
 <p align="center">
-   Thank you for using the <strong>React Vite App Template</strong>! Happy coding! 🚀
+   Thank you for using the <strong>README Template</strong>! Happy coding! 🚀
 </p>
