@@ -1,10 +1,10 @@
 <div align="center">
   <img height="80px" src="https://skillicons.dev/icons?i=md" alt="Markdown Icon">
   <h1>README Template</h1>
-  <a href="https://github.com/RanitManik/README-Template/wiki"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/RanitManik/Project-Starter-Template/wiki"><strong>Explore the docs »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/RanitManik/README-Template">View Demo</a>
+  <a href="https://github.com/RanitManik/Project-Starter-Template">View Demo</a>
   ·
   <a href=".github/ISSUE_TEMPLATE/bug_report.md">Report Bug</a>
   ·
@@ -12,16 +12,15 @@
   <br/>
   <br/>
 
-![GitHub Created At](https://img.shields.io/github/created-at/RanitManik/README-Template)
-![GitHub License](https://img.shields.io/github/license/RanitManik/README-Template)
-![GitHub repo size](https://img.shields.io/github/repo-size/RanitManik/README-Template)
-![GitHub Discussions](https://img.shields.io/github/discussions/RanitManik/README-Template)
-![GitHub Release](https://img.shields.io/github/v/release/RanitManik/README-Template)
+![GitHub Created At](https://img.shields.io/github/created-at/RanitManik/Project-Starter-Template)
+![GitHub License](https://img.shields.io/github/license/RanitManik/Project-Starter-Template)
+![GitHub repo size](https://img.shields.io/github/repo-size/RanitManik/Project-Starter-Template)
+![GitHub Discussions](https://img.shields.io/github/discussions/RanitManik/Project-Starter-Template)
+![GitHub Release](https://img.shields.io/github/v/release/RanitManik/Project-Starter-Template)
 
 </div>
 
-A well-crafted README template containing all the essential community standards to assist you in launching your projects
-successfully and ensuring they meet the expected quality levels. Read the **[Wiki Docs](https://github.com/RanitManik/README-Template/wiki)** to learn more about this project and its structure. Ask questions about this project in the **[Discussion](https://github.com/RanitManik/README-Template/discussions)**.
+A well-crafted project starter template containing all the essential community standards to assist you in launching your projects successfully and ensuring they meet the expected quality levels. Read the **[Wiki Docs](https://github.com/RanitManik/Project-Starter-Template/wiki)** to learn more about this project and its structure. Ask questions about this project in the **[Discussion](https://github.com/RanitManik/Project-Starter-Template/discussions)**.
 
 ## Table of Contents
 
@@ -40,25 +39,21 @@ successfully and ensuring they meet the expected quality levels. Read the **[Wik
 
 ## Overview
 
-![README-Template](https://github.com/RanitManik/README-Template/assets/138437760/a505a90d-912f-4f18-a604-94209bcda021)
-
+![Project-Starter-Template](https://repository-images.githubusercontent.com/815239689/dac4f581-9ce1-42cc-b271-ab7b12292b1f)
 
 ### Why This Template?
 
-Your time is valuable and should be focused on building amazing projects that solve problems and help others. This
-template is designed to streamline the process of creating a README so you can adhere to DRY (Don't Repeat Yourself)
-principles even in your documentation efforts. Here's why this template stands out:
+Your time is valuable and should be focused on building amazing projects that solve problems and help others. This template is designed to streamline the process of setting up a new project so you can adhere to DRY (Don't Repeat Yourself) principles even in your documentation efforts. Here's why this template stands out:
 
 - **Efficiency**: Save time by using a pre-structured template.
-- **Focus**: Spend more time on developing your project rather than writing documentation from scratch.
+- **Focus**: Spend more time on developing your project rather than setting up from scratch.
 - **Versatility**: This template aims to be as versatile as possible to fit various projects.
 
-This template will evolve to better meet various needs. Feel free to suggest changes by forking this repo, creating a
-pull request, or opening an issue. Contributions are always welcome!
+This template will evolve to better meet various needs. Feel free to suggest changes by forking this repo, creating a pull request, or opening an issue. Contributions are always welcome!
 
 > [!IMPORTANT]
-> For comprehensive insights into this project, we strongly recommend visiting **[our project's wiki page](https://github.com/RanitManik/README-Template/wiki)**.
-> The [home page](https://github.com/RanitManik/README-Template/wiki) provides an overview of the project, while the [Project Structure page](https://github.com/RanitManik/README-Template/wiki/Project-Structure) details the purpose and contents of each file and folder in the project structure.
+> For comprehensive insights into this project, we strongly recommend visiting **[our project's wiki page](https://github.com/RanitManik/Project-Starter-Template/wiki)**.
+> The [home page](https://github.com/RanitManik/Project-Starter-Template/wiki) provides an overview of the project, while the [Project Structure page](https://github.com/RanitManik/Project-Starter-Template/wiki/Project-Structure) details the purpose and contents of each file and folder in the project structure.
 
 > [!Note]
 > This README provides detailed examples and information. For a clean template format, consider using the **[README_TEMPLATE.md](README_TEMPLATE.md)** file as your README. We recommend reviewing the guide on making changes in this README to ensure you cover all necessary aspects effectively.
@@ -106,11 +101,11 @@ Ensure you have the following software installed:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RanitManik/README-Template.git
+   git clone https://github.com/RanitManik/Project-Starter-Template.git
    ```
 2. Navigate to the project directory
    ```sh
-   cd README-Template
+   cd Project-Starter-Template
    ```
 3. Install NPM packages
    ```sh
@@ -164,5 +159,5 @@ _Feel free to reach out if you have questions or just want to chat about web adv
 ---
 
 <p align="center">
-   Thank you for using the <strong>README Template</strong>! Happy coding! 🚀
+   Thank you for using the <strong>Project Starter Template</strong>! Happy coding! 🚀
 </p>
